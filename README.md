@@ -22,7 +22,7 @@ I am a Junior Front-End developer looking for a full-time position in a product 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mikheenko-d-s&include_all_commits=true&title_color=ffffff&show_icons=true&icon_color=ffffff&line_height=27&theme=dark" alt="Dmitry's GitHub Langs" />
 </a>
 
-# TECH SKILLS:
+# Tech skills:
 
 [<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html5" height='42px'/>](http://htmlbook.ru/html "HTML5")
 [<img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" height='42px' />](http://htmlbook.ru/samcss "CSS3")
@@ -34,7 +34,7 @@ I am a Junior Front-End developer looking for a full-time position in a product 
 [<img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="figma" height='42px' />](https://www.figma.com/ "Figma")
 [<img src="https://img.icons8.com/color/48/000000/trello.png" alt="trello" height='42px' />](https://trello.com/ "Trello")
 
-# SOFT SKILLS:
+# Soft skills:
 
 • Teamwork
 • Communication
@@ -42,7 +42,7 @@ I am a Junior Front-End developer looking for a full-time position in a product 
 • Growth Mindset
 • Creativity
 
-# LANGUAGES:
+# Languages:
 
 • Ukrainian - native
 • Russian - native
