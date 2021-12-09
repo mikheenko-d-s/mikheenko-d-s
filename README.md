@@ -2,11 +2,6 @@
 
 I am a Junior Front-End developer looking for a full-time position in a product company that's aimed at making both everyday life and business easier, more productive and user-friendly. I have sound knowledge of HTML, CSS, JavaScript, and React. Also, methodology when working in a team. I am a fast learner, responsible, and ready for challenging tasks.
 
-# Contacts: 
-
-• +38(066)-209-81-83
-• +38(096)-256-44-80
-
 # How to reach me:
 
 <a href="mailto:mikheenko.official@gmail.com" rel="noopener noreferrer" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" />
