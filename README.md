@@ -46,4 +46,4 @@ I am a Junior Front-End developer looking for a full-time position in a product 
 
 • Ukrainian - native
 • Russian - native
-• English - pre-intermediate
+• English - intermediate
